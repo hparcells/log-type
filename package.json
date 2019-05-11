@@ -15,5 +15,21 @@
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hparcells/log-type.git"
+  },
+  "keywords": [
+    "log",
+    "logging",
+    "color",
+    "colour",
+    "terminal",
+    "console"
+  ],
+  "bugs": {
+    "url": "https://github.com/hparcells/log-type/issues"
+  },
+  "homepage": "https://github.com/hparcells/log-type#readme"
 }
