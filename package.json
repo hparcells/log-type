@@ -1,0 +1,19 @@
+{
+  "name": "log-type",
+  "version": "1.0.0",
+  "description": "A simple logger for different types of log messages.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx babel ./src/index.js --out-file index.js"
+  },
+  "author": "Hunter Parcells",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4"
+  }
+}
